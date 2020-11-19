@@ -18,12 +18,47 @@ If you're not familiar with a Hackathon, the premise is simple: concept an app, 
 ### Teams
 
 <details>
-    <ul>
-        <li> <table>
-            <tr><th>Engineers:</th><th>Designers:</th></tr>
-            <tr><td>Dan G, Min R, Sri E, Katie H</td><td>David, Mel, Tala, Ayla</td>
-        </table> </li>
-    </ul>
+    <table>
+            <tr>
+                <th>Engineers:</th><th>Designers:</th>
+            </tr>
+            <tr>
+                <td>Dan G, Min R, Sri E, Katie H</td>
+                <td>David, Mel, Tala, Ayla</td>
+            </tr>
+            <tr>
+                <td>Juliana Z, Justin B, Josh P</td>
+                <td>Adrian, Frankie, Naomi</td>
+            </tr>
+            <tr>
+                <td>Bryan R, Andy D, Will V</td>
+                <td>Herbie, Mony, Sam, Neil</td>
+            </tr>
+            <tr>
+                <td>Elias B, John T, Tyler S</td>
+                <td>Lan, Tim, Amanda, Lonnie</td>
+            </tr>
+            <tr>
+                <td>Ben C, Cirrus M, Laura P</td>
+                <td>Margot, Desiree, Laura</td>
+            </tr>
+            <tr>
+                <td>Britt S, Kyle H, Chris Z</td>
+                <td>Patrick, Ruth, Drew</td>
+            </tr>
+            <tr>
+                <td>Morgan J, Onias I, Jed G</td>
+                <td>Pia, Michelle, Rachel</td>
+            </tr>
+            <tr>
+                <td>Kihwan L, Josh S, Simone P</td>
+                <td>Sophie, Morgan, Nathan</td>
+            </tr>
+            <tr>
+                <td>Jia C, Brendan H, Emily F</td>
+                <td>Siena, Alex, Amelia, Luis</td>
+            </tr>
+    </table>
 </details>
 
 ### Final Notes:
