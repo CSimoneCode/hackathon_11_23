@@ -23,6 +23,8 @@ If you're not familiar with a Hackathon, the premise is simple: concept an app, 
             <tr><th>Engineers:</th><th>Designers:</th></tr>
             <tr><td>Dan G, Min R, Sri E, Katie H</td><td>David, Mel, Tala, Ayla</td>
         </table> </li>
+    </ul>
+</details>
 
 ### Final Notes:
 You are the paragons of code wisdom in this format. Your UX designers will be looking to you for what is feasible in the time frame. With that in mind, know that your instructional staff is always available for support in the event that things go wildly awry. 
