@@ -18,6 +18,7 @@ If you're not familiar with a Hackathon, the premise is simple: concept an app, 
 ### Teams
 
 <details>
+<summary></summary>
     <table>
             <tr>
                 <th>Engineers:</th><th>Designers:</th>
